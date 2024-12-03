@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="Ru-Ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Шаблон страницы</title>
+    <meta name="description" content="The HTML5 sample">
+    <meta name="author" content="from internet">
+    <link rel="stylesheet" href="css\styles.css">
+</head>
+<body>
+    <header style="background-color: lightblue;">
+        <h1>Медицинский факультет</h1>
+        <h2>Кафедра медицины и экспериментальной биологии</h2>
+        <hr>
+    </header>
+  <nav align="center" style="background-color: blanchedalmond;">
+Меню: [
+<a href="https://www.google.ru/webhp?hl=ru">Google</a>|
+<a href="https://ya.ru/">Yandex</a>|
+        <a href="https://www.rambler.ru/?ysclid=m3ehcdp65w811305255">Rambler</a>]
+<hr>
+  </nav>
+  <p> Текст </p>
+<footer style="background-color: aquamarine;">
+    <hr>
+    <p>Равзработка - студенты 2-го курса</p>
+</footer>
+</body>
+</html>
